@@ -1,0 +1,37 @@
+#root{
+    height: 250px;
+}
+input{
+    width: 150px;
+    height: 40px;
+    border: 2px solid rebeccapurple;
+    margin-left:610px;
+    display: block;
+    outline: none;
+    
+}
+button{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding-bottom: ;
+}
+h1{
+    text-align: center;
+}
+#head{
+   padding: 70px 0px; 
+}
+#head input{
+    width: 150px;
+    height: 40px;
+    outline: none;
+    border: 5px solid black;
+    margin-top: 30px;
+}
+#h2{
+    text-align: center;
+}
